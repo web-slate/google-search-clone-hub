@@ -4,4 +4,4 @@ Google Search Clone Hub Repository contains all the repos URLs and other informa
 ## Repo Links
 1. [React App Repo](https://github.com/web-slate/google-search-clone-web)  
 1. [API (Java Spring Boot)](https://github.com/web-slate/google-search-clone-api/tree/main/java-spring-boot)  
-1. [Flutter App](https://github.com/ramsunvtech/linkedin-clone-ios-app)  
+1. [Flutter App](https://github.com/web-slate/google-search-clone-hybrid-app/tree/main/flutter)  
